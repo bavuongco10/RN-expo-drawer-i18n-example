@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "16.0.0",
+    "expo": "50.0.0",
     "i18next": "8.2.1",
     "react": "16.0.0-alpha.6",
     "react-i18next": "6.0.0",
